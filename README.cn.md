@@ -3,6 +3,14 @@
 目前 PLCT 实验室主要提供编译器课程的培训。目前只有中文。欢迎通过实习形式加入到具体的项目开发中，或参与旁听PLCT编译技术讨论班（见下方）。
 同时，英文版课程以及模拟器相关课程也在准备中，敬请期待。
 
+## 公开课 "循序渐进，学习开发一个 RISC-V 上的操作系统" · 2021 年春
+
+课程资料下载地址：
+- <https://github.com/plctlab/riscv-operating-system-mooc>
+- 为方便国内用户访问，对应 Gitee 镜像网址：<https://gitee.com/unicornx/riscv-operating-system-mooc>
+
+录播视频在线播放地址：<https://www.bilibili.com/video/BV1Q5411w7z5>
+
 ## 编译技术入门与实战·第三季·2021年4月
 
 敬请期待。本期将在前两期的基础上，结合LLVM源代码，讲解10个常用算法。最后实现一个RISC-V优化的大作业。
